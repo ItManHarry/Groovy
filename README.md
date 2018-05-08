@@ -9,4 +9,4 @@ Groovy Repository
   
 - Eclipse Groovy插件版本对应：
 
-  - https://github.com/groovy/groovy-eclipse/wiki
+  - https://github.com/groovy/groovy-eclipse/wiki
